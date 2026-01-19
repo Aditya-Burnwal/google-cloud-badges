@@ -8,7 +8,7 @@ This repository highlights my progress, achievements, and dedication in learning
 ## 🔗 My Public Cloud Skills Boost Profile  
 Click below to view my verified badges and completed labs:
 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/View%20My%20Google%20Cloud%20Profile-Click%20Here-blue?logo=googlecloud)]([https://www.cloudskillsboost.google/public_profiles/b1c62238-514d-47e3-bc21-802ab1ca255e](https://www.skills.google/public_profiles/eb98a0a6-463a-41d7-b5ba-06ea7871f7f8))
+[![Google Cloud Skills Boost](https://img.shields.io/badge/View%20My%20Google%20Cloud%20Profile-Click%20Here-blue?logo=googlecloud)]([https://www.skills.google/public_profiles/eb98a0a6-463a-41d7-b5ba-06ea7871f7f8])
 
 ---
 
